@@ -1,2 +1,2 @@
-# ars-azure-openai-sharepoint-rag-project
-Leverage LLMs/Open AI for backend Axon Portals
+# Azure OpenAI + SharePoint RAG Demo
+(placeholder README; user should replace with full readme)
