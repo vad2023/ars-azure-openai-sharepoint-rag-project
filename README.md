@@ -1,4 +1,4 @@
-# Azure OpenAI + SharePoint RAG Demo
+# ARS Azure OpenAI + SharePoint RAG Demo
 
 Prototype reference architecture for creating a Retrieval-Augmented Generation (RAG) pattern using:
 
